@@ -10,4 +10,4 @@
 
 
 
-(/preview.png)
+(preview.png)
